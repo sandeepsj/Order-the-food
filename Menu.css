@@ -1,0 +1,29 @@
+.MenuBanner{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color:  #6B7A8F;
+	text-align: center;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	font-size: 30px;
+  	color: #fff;
+  	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+.HotelBanner{
+	padding-top: 1px;
+	padding-left: 10px;
+	background-image: url("header.png");
+	height: 128px;
+	background-color: #F7882F;
+	background-repeat: no-repeat;
+	background-position: right;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+	font-size: 20px;
+  	color: #fff;
+  	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+body{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px; 
+	margin-left: 0px;
+}
